@@ -1,0 +1,4 @@
+venv/
+db.sqlite3
+people/__pycache__
+wave_project/__pycache__
